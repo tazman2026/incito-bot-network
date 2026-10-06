@@ -1,0 +1,4 @@
+.site-password
+.staticrypt.json
+node_modules/
+build/
